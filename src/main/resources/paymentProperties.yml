@@ -1,0 +1,4 @@
+pay:
+  nopassword:
+    maxAmountPerDeal: 1000 # 免密支付单次交易最大限额
+    maxAmountTotal: 5000 # 免密支付每日交易最大限额
