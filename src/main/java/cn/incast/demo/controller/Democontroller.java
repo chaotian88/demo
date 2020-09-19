@@ -27,6 +27,6 @@ public class Democontroller {
                  prop.getMaxAmountPerDeal(), prop.getMaxAmountTotal());
     }
 
-
+// fffffffffffffffffffffffffff
 
 }
